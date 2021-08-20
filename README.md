@@ -1,5 +1,7 @@
 # About
 
+[![Go](https://github.com/Adityacprtm/validtoml/actions/workflows/go.yml/badge.svg?branch=master)](https://github.com/Adityacprtm/validtoml/actions/workflows/go.yml)
+
 Command line tool to validate TOML syntax of input file.
 
 ## Installation
